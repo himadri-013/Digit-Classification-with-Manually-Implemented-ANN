@@ -25,7 +25,7 @@ The model is trained on :
 - Normalization : pixel values scaled to (0, 1)
 - Flattening 2D images to 1D input vectors
 
-## 🔹Preprocessing for prediction includes:
+## 🔹Preprocessing for real-life prediction includes:
 
 - Grayscale conversion
 - Resizing (e.g., 28x28)
