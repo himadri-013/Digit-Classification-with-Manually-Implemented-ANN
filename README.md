@@ -1,4 +1,4 @@
-# 🔹Handwritten Digit Classification using a Manually Implemented ANN
+# **🔹Handwritten Digit Classification using a Manually Implemented ANN**
 
 This project implements a simple **Artificial Neural Network (ANN) from scratch** using Python to classify **handwritten digits**. The neural network is trained on preprocessed image data and includes a **single hidden layer**. The objective is to demonstrate how an ANN works internally—without relying on libraries like TensorFlow or PyTorch.
 
@@ -16,16 +16,16 @@ This project implements a simple **Artificial Neural Network (ANN) from scratch*
 
 The model is trained on :
 
-- **MNIST** (recommended)
+- **MNIST** dataset of hand written digits
 
 
-### 🔹Preprocessing for training includes:
+## 🔹Preprocessing for training includes:
 
 - Resizing (e.g., 28x28)
 - Normalization : pixel values scaled to (0, 1)
 - Flattening 2D images to 1D input vectors
 
-### 🔹Preprocessing for prediction includes:
+## 🔹Preprocessing for prediction includes:
 
 - Grayscale conversion
 - Resizing (e.g., 28x28)
