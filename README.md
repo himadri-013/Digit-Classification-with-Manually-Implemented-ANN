@@ -19,7 +19,7 @@ The model is trained on :
 - **MNIST** dataset of hand written digits
 
 
-## 🔹Preprocessing for training includes:
+## 🔹Preprocessing for training & testing includes:
 
 - Resizing (e.g., 28x28)
 - Normalization : pixel values scaled to (0, 1)
