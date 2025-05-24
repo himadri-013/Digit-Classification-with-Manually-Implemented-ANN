@@ -29,7 +29,7 @@ The model is trained on :
 
 - Grayscale conversion
 - Resizing (e.g., 28x28)
-- Normalization (pixel values scaled to [0, 1])
+- Normalization : pixel values scaled to (0, 1)
 - Flattening 2D images to 1D input vectors
 
 ## 📁 Project Structure
