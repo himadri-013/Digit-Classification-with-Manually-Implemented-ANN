@@ -14,15 +14,19 @@ This project implements a simple **Artificial Neural Network (ANN) from scratch*
 ---
 
 ## 📁 Project Structure
-├── images/
-│ └── sample_images_predictions/
-├── src/
-│ ├── ann.py
-│ ├── preprocess.py
-│ ├── train.py
-│ └── utils.py
-├── README.md
-└── requirements.txt
+<br>├── sample_images_predictions/
+<br>│ └── image 1
+<br>| └── image 2
+<br>| └── image 3
+<br>| └── image 4
+<br>| └── image 5
+<br>├── src/
+<br>│ ├── module_ann.ipynb
+<br>│ ├── data_processing.ipynb
+<br>│ ├── Model_training_testing.ipynb
+<br>│ └── Predictions.ipynb
+<br>├── README.md
+<br>└── requirements.txt
 
 
 
