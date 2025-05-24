@@ -1,0 +1,18 @@
+# Jupyter and notebook tools
+notebook
+ipykernel
+
+# Core scientific libraries
+numpy
+pandas
+
+# Plotting libraries
+matplotlib
+seaborn
+
+# Model Evaluation
+scikit-learn
+tensorflow
+
+# Image Processing 
+opencv-python
