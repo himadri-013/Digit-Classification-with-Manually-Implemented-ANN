@@ -34,18 +34,18 @@ The model is trained on :
 
 ## 📁 Project Structure
 <br>├── sample_images_for_predictions/
-<br> │ └── image 1
-<br> | └── image 2
-<br> | └── image 3
-<br> | └── image 4
-<br> | └── image 5
+<br>  └── image 1
+<br>  └── image 2
+<br>  └── image 3
+<br>  └── image 4
+<br>  └── image 5
 <br>├── src/
-<br> │ ├── module_ann.ipynb
-<br> │ ├── data_processing.ipynb
-<br> │ ├── Model_training_testing.ipynb
-<br> │ └── Predictions.ipynb
+<br>  └── module_ann.ipynb
+<br>  └── data_processing.ipynb
+<br>  └── Model_training_testing.ipynb
+<br>  └── Predictions.ipynb
 <br>├── README.md
-<br>└── requirements.txt
+<br>├── requirements.txt
 
 
 
